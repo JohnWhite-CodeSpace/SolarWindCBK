@@ -5,8 +5,23 @@ import time
 def FindCorrectDataSets(self,SortedDirectory,Terminal, SubSortedDirectory, ProgressBar, Label):
     print("Start method")
     for root, dirs, files in os.walk(SortedDirectory):
+        count = 0
+        datasize = len(files)
         for file in files:
+            if count % 100 == 0:
+                print(count)
+                print(datasize)
+            self.update_progress_signal.emit(count)
+            ProgressBar.setMaximum(datasize)
             Terminal.append(f"Scanning file: {os.path.join(root,file)}")
+            try:
+                count += 1
+                self.update_progress_signal.emit(count)
+            except Exception as e:
+                print(e)
+                Terminal.append(f"An error occurred while updating progress: {str(e)}")
+                time.sleep(0.1)
+                continue
             if file.endswith(".txt") and os.path.isfile(os.path.join(root,file)) and not file.endswith(".attdba")\
                     and not file.endswith(".star-spin-nep.txt") and not file.endswith("ibex_state_GSE.txt"):
                 filepath = os.path.join(root,file)
@@ -17,11 +32,18 @@ def FindCorrectDataSets(self,SortedDirectory,Terminal, SubSortedDirectory, Progr
                 pathlib.Path(correctfilepath).mkdir(parents=True, exist_ok=True)
                 with open(filepath, "r") as filedata:
                     lines = filedata.readlines()
-                ScanningProcess(self,lines,Terminal,ProgressBar,correctfilepath,file,filepath)
+                output_lines = process_lines(lines)
+                if output_lines:
+                    with open(correctfilepath, 'w') as output_file:
+                        output_file.writelines(output_lines)
 
 def setProgressBar(datasize):
     return datasize
 
+def process_lines(lines):
+    # Add your conditions for processing lines here
+    # For example, let's copy lines containing the word 'example'
+    return [line for line in lines if re.split('\s+', line)[4] in ["0A", "0E", "05", "40", "2*"]]
 def ScanningProcess(self,lines,Terminal,ProgressBar,correctfilepath,file,filepath):
     datasize = len(lines)
     count = 0
