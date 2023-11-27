@@ -29,31 +29,35 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.sorted_dir = None
-        self.setMinimumSize(QSize(900, 600))
+        self.setMinimumSize(QSize(1200, 800))
         self.setWindowTitle("IBEX analizer")
         self.update_progress_signal.connect(self.update_progress)
         Startbutton = QPushButton('Start sorting data process', self)
         Startbutton.clicked.connect(self.clickStart)
         Startbutton.resize(160, 100)
-        Startbutton.move(50, 40)
+        Startbutton.move(10, 40)
 
         Plotbutton = QPushButton('Plot data', self)
         Plotbutton.clicked.connect(self.clickStart)
         Plotbutton.resize(160, 100)
-        Plotbutton.move(50, 160)
+        Plotbutton.move(10, 160)
 
         SecondSorting = QPushButton('Second stage processing', self)
         SecondSorting.clicked.connect(self.SecondStageSorting)
         SecondSorting.resize(160,100)
-        SecondSorting.move(50, 280)
+        SecondSorting.move(10, 280)
+
+        ThirdSorting = QPushButton('Collect "Good Times" data',self)
+        ThirdSorting.resize(160,100)
+        ThirdSorting.move(180,40)
 
         TermLabel = QLabel('Terminal', self)
-        TermLabel.resize(150, 30)
-        TermLabel.move(10, 370)
+        TermLabel.resize(200, 30)
+        TermLabel.move(10, 460)
 
         self.Terminal = QTextEdit('', self)
-        self.Terminal.resize(880, 150)
-        self.Terminal.move(10, 400)
+        self.Terminal.resize(1180, 250)
+        self.Terminal.move(10, 500)
         self.Terminal.setStyleSheet("background-color : #FFFFFF")
         self.Create_MenuBar()
 
@@ -67,15 +71,15 @@ class MainWindow(QMainWindow):
 
         self.widget = QtWidgets.QWidget(self)
         self.widget.setLayout(layout)
-        self.widget.setGeometry(300, 10, 550, 380)
+        self.widget.setGeometry(350, 15, 800, 470)
 
         self.ProgressBar = QProgressBar(self)
-        self.ProgressBar.resize(900,15)
-        self.ProgressBar.move(10,580)
+        self.ProgressBar.resize(1200,15)
+        self.ProgressBar.move(10,780)
 
         self.Progress = QLabel("Sorting progress:", self)
         self.Progress.resize(800, 30)
-        self.Progress.move(10, 550)
+        self.Progress.move(10, 750)
 
     def Create_MenuBar(self):
         menubar = QMenuBar(self)
@@ -101,7 +105,7 @@ class MainWindow(QMainWindow):
      self.Terminal.append("Choose directory to store sorted data:")
      self.sorted_dir = str(QFileDialog.getExistingDirectory(self, "Select Directory For Sorted Data"))
      self.Terminal.append(f"Chosen sorted directory: {self.sorted_dir}")
-     threading.Thread(target=DS.InitDataFileSorting, args=(self.source_dir,self.sorted_dir, self.Terminal)).start()
+     threading.Thread(target=DS.InitDataFileSorting, args=(self,self.source_dir,self.sorted_dir, self.Terminal, self.Progress)).start()
 
     def SecondStageSorting(self):
         #print(self.sorted_dir)

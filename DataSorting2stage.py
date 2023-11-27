@@ -8,9 +8,6 @@ def FindCorrectDataSets(self,SortedDirectory,Terminal, SubSortedDirectory, Progr
         count = 0
         datasize = len(files)
         for file in files:
-            if count % 100 == 0:
-                print(count)
-                print(datasize)
             self.update_progress_signal.emit(count)
             ProgressBar.setMaximum(datasize)
             Terminal.append(f"Scanning file: {os.path.join(root,file)}")
