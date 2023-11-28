@@ -1,3 +1,4 @@
+import os.path
 import threading
 import time
 from pynput import keyboard
@@ -15,7 +16,7 @@ from matplotlib.figure import Figure
 matplotlib.use('Qt5Agg')
 import PlotHandler
 import DataSorting2stage as d2
-
+from TableView import DataTableView as DTV
 class MplCanvas(FigureCanvasQTAgg):
 
     def __init__(self, parents = None, width=5, height=4, dpi=100):
@@ -29,6 +30,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.sorted_dir = None
+        self.ExtWid = None
         self.setMinimumSize(QSize(1200, 800))
         self.setWindowTitle("IBEX analizer")
         self.update_progress_signal.connect(self.update_progress)
@@ -38,7 +40,7 @@ class MainWindow(QMainWindow):
         Startbutton.move(10, 40)
 
         Plotbutton = QPushButton('Plot data', self)
-        Plotbutton.clicked.connect(self.clickStart)
+        Plotbutton.clicked.connect(self.InitDataPlotting)
         Plotbutton.resize(160, 100)
         Plotbutton.move(10, 160)
 
@@ -138,6 +140,17 @@ class MainWindow(QMainWindow):
 
     def update_progress(self, value):
         self.ProgressBar.setValue(value)
+    def InitDataPlotting(self):
+        plotfile = str(QFileDialog.getOpenFileName(self, "Select file to view in table:"))
+        self.Terminal.append(f"Loading data from file: {os.path.abspath(plotfile)}")
+        DTV.LoadDataFromFile(plotfile)
+        self.Terminal.append("Data successfully loaded to IBEX Table Viewer")
+        time.sleep(0.1)
+        self.Terminal.append("Displaying contents in separete dialog...")
+        if self.ExtWid is None:
+            self.ExtWid = DTV()
+        self.ExtWid.show()
+
 
 
 def refresh_text_box(self, MYSTRING):
