@@ -1,10 +1,12 @@
 import os.path
 import threading
 import time
+
+from matplotlib.ticker import MaxNLocator
 from pynput import keyboard
 from PyQt5 import QtCore, QtWidgets, QtGui
 from PyQt5.QtWidgets import QMainWindow, QLabel, QGridLayout, QWidget, QTextEdit, QPushButton, QFileDialog, QDialog, \
-    QMenuBar, QMenu, QAction, QProgressBar
+    QMenuBar, QMenu, QAction, QProgressBar, QVBoxLayout
 from PyQt5.QtCore import QSize, QTimer, QObject, pyqtSignal
 from PyQt5.QtGui import *
 import subprocess
@@ -16,54 +18,60 @@ from matplotlib.figure import Figure
 matplotlib.use('Qt5Agg')
 import PlotHandler
 import DataSorting2stage as d2
-from TableView import DataTableView as DTV
+import TableView as tv
 class MplCanvas(FigureCanvasQTAgg):
 
     def __init__(self, parents = None, width=5, height=4, dpi=100):
         fig = Figure(figsize=(width, height), dpi=dpi)
-        self.axes = fig.add_subplot(111)
+        self.axes = fig.add_subplot()
         super(MplCanvas, self).__init__(fig)
-
 
 class MainWindow(QMainWindow):
     update_progress_signal = pyqtSignal(int)
     def __init__(self):
         super().__init__()
         self.sorted_dir = None
-        self.ExtWid = None
+        self.windows = None
+        self.DataX = None
+        self.DataY = None
         self.setMinimumSize(QSize(1200, 800))
         self.setWindowTitle("IBEX analizer")
         self.update_progress_signal.connect(self.update_progress)
         Startbutton = QPushButton('Start sorting data process', self)
         Startbutton.clicked.connect(self.clickStart)
-        Startbutton.resize(160, 100)
+        Startbutton.resize(160, 80)
         Startbutton.move(10, 40)
-
-        Plotbutton = QPushButton('Plot data', self)
-        Plotbutton.clicked.connect(self.InitDataPlotting)
-        Plotbutton.resize(160, 100)
-        Plotbutton.move(10, 160)
 
         SecondSorting = QPushButton('Second stage processing', self)
         SecondSorting.clicked.connect(self.SecondStageSorting)
-        SecondSorting.resize(160,100)
-        SecondSorting.move(10, 280)
+        SecondSorting.resize(160,80)
+        SecondSorting.move(10, 120)
 
-        ThirdSorting = QPushButton('Collect "Good Times" data',self)
-        ThirdSorting.resize(160,100)
-        ThirdSorting.move(180,40)
+        ThirdSorting = QPushButton('Collect "Good Times" data', self)
+        ThirdSorting.resize(160, 80)
+        ThirdSorting.move(10, 200)
+
+        Plotbutton = QPushButton('Open IBEX Table Viewer', self)
+        Plotbutton.clicked.connect(self.InitDataPlotting)
+        Plotbutton.resize(160, 80)
+        Plotbutton.move(10, 280)
+
+        PlotData = QPushButton('Plot Data', self)
+        PlotData.clicked.connect(self.HandlePlot1)
+        PlotData.resize(160, 80)
+        PlotData.move(10, 360)
 
         TermLabel = QLabel('Terminal', self)
         TermLabel.resize(200, 30)
-        TermLabel.move(10, 460)
+        TermLabel.move(10, 520)
 
         self.Terminal = QTextEdit('', self)
-        self.Terminal.resize(1180, 250)
-        self.Terminal.move(10, 500)
+        self.Terminal.resize(1180, 200)
+        self.Terminal.move(10, 550)
         self.Terminal.setStyleSheet("background-color : #FFFFFF")
         self.Create_MenuBar()
 
-        self.sc = MplCanvas(self, width=5, height=4, dpi=100)
+        self.sc = MplCanvas(self, width=8, height=6, dpi=70)
         self.sc.axes.plot([0,1,2,3,4], [10,1,20,3,40])
 
         toolbar = NavigationToolbar(self.sc,self)
@@ -73,15 +81,16 @@ class MainWindow(QMainWindow):
 
         self.widget = QtWidgets.QWidget(self)
         self.widget.setLayout(layout)
-        self.widget.setGeometry(350, 15, 800, 470)
+        self.widget.setGeometry(250, 15, 900, 530)
 
         self.ProgressBar = QProgressBar(self)
-        self.ProgressBar.resize(1200,15)
+        self.ProgressBar.resize(1195,15)
         self.ProgressBar.move(10,780)
 
         self.Progress = QLabel("Sorting progress:", self)
         self.Progress.resize(800, 30)
         self.Progress.move(10, 750)
+
 
     def Create_MenuBar(self):
         menubar = QMenuBar(self)
@@ -121,13 +130,16 @@ class MainWindow(QMainWindow):
         #Method for selecting proper datasets
         self.Progress.setText("Sorting progress: ")
     def HandlePlot1(self):
-        Datax = 0
-        Datay = 0
-        #self.sc.axes.cla()
-        response = PlotHandler.ChangePlotType(1,None,None,None)
-        threading.Thread(target=self.refresh_text_box, args=(response,)).start()
-        #print("hello")
-        #self.sc.draw()
+        if self.windows is not None:
+            Datax, Datay = self.windows.GetDataset()
+            self.sc.axes.cla()
+            self.sc.axes.plot(Datax, Datay)
+            self.sc.axes.xaxis.set_major_locator(MaxNLocator(nbins=8))
+            self.sc.axes.yaxis.set_major_locator(MaxNLocator(nbins=8))
+            self.sc.axes.autoscale()
+            self.sc.draw()
+        else:
+            self.Terminal.append("First open IBEX Table Viewer and choose data for plotting.")
     def HandlePlot2(self):
         Datax = 0
         Datay = 0
@@ -140,18 +152,11 @@ class MainWindow(QMainWindow):
 
     def update_progress(self, value):
         self.ProgressBar.setValue(value)
+
     def InitDataPlotting(self):
-        plotfile = str(QFileDialog.getOpenFileName(self, "Select file to view in table:"))
-        self.Terminal.append(f"Loading data from file: {os.path.abspath(plotfile)}")
-        DTV.LoadDataFromFile(plotfile)
-        self.Terminal.append("Data successfully loaded to IBEX Table Viewer")
-        time.sleep(0.1)
-        self.Terminal.append("Displaying contents in separete dialog...")
-        if self.ExtWid is None:
-            self.ExtWid = DTV()
-        self.ExtWid.show()
-
-
+        if self.windows is None:
+            self.windows = tv.DataTableView()
+        self.windows.show()
 
 def refresh_text_box(self, MYSTRING):
     self.Terminal.append('started appending %s' % MYSTRING)  # append string
