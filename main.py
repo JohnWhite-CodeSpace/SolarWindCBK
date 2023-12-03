@@ -19,6 +19,7 @@ matplotlib.use('Qt5Agg')
 import PlotHandler
 import DataSorting2stage as d2
 import TableView as tv
+import DataSorting3stage as d3
 class MplCanvas(FigureCanvasQTAgg):
 
     def __init__(self, parents = None, width=5, height=4, dpi=100):
@@ -48,6 +49,7 @@ class MainWindow(QMainWindow):
         SecondSorting.move(10, 120)
 
         ThirdSorting = QPushButton('Collect "Good Times" data', self)
+        ThirdSorting.clicked.connect(self.ThirdStageSorting)
         ThirdSorting.resize(160, 80)
         ThirdSorting.move(10, 200)
 
@@ -129,6 +131,13 @@ class MainWindow(QMainWindow):
         threading.Thread(target=d2.FindCorrectDataSets, args=(self,self.sorted_dir,self.Terminal,subsortdir,self.ProgressBar,self.Progress)).start()
         #Method for selecting proper datasets
         self.Progress.setText("Sorting progress: ")
+    def ThirdStageSorting(self):
+        self.Terminal.append("Initialising third stage of data sorting...")
+        self.Terminal.append("Choose storage directory for selected data sets")
+        subsortdir = str(QFileDialog.getExistingDirectory(self, "Select Storage Directory"))
+        if self.sorted_dir is None:
+            self.sorted_dir = str(QFileDialog.getExistingDirectory(self, "Select Source Directory"))
+        Hi = threading.Thread(target=d3.ProcessGoodTimesHi, args=(self, self.Terminal, self.sorted_dir,subsortdir, self.ProgressBar, self.Progress)).start()
     def HandlePlot1(self):
         if self.windows is not None:
             Datax, Datay = self.windows.GetDataset()
