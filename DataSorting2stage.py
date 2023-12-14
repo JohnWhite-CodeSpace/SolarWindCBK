@@ -8,12 +8,12 @@ def FindCorrectDataSets(self,SortedDirectory,Terminal, SubSortedDirectory, Progr
         count = 0
         datasize = len(files)
         for file in files:
-            self.update_progress_signal.emit(count)
+            self.update_progress_signal.emit(count, 1)
             ProgressBar.setMaximum(datasize)
             Terminal.append(f"Scanning file: {os.path.join(root,file)}")
             try:
                 count += 1
-                self.update_progress_signal.emit(count)
+                self.update_progress_signal.emit(count, 1)
             except Exception as e:
                 print(e)
                 Terminal.append(f"An error occurred while updating progress: {str(e)}")
@@ -38,6 +38,8 @@ def FindCorrectDataSets(self,SortedDirectory,Terminal, SubSortedDirectory, Progr
 
 
 def process_lines(lines):
-    return [line for line in lines if re.split('\s+', line)[4] in ["0A", "0E", "05", "40", "2*"]]
+    return [line for line in lines if re.split('\s+', line)[4] in ["0A", "0E", "05", "40"]
+            and re.split('\s+', line)[3].startswith('2') or re.split('\s+', line)[4] in ["0A", "0E", "05", "40"]
+    and re.split('\s+', line)[3].startswith('1')]
 
     #Process finished with exit code -1073741819 (0xC0000005)

@@ -28,7 +28,8 @@ class MplCanvas(FigureCanvasQTAgg):
         super(MplCanvas, self).__init__(fig)
 
 class MainWindow(QMainWindow):
-    update_progress_signal = pyqtSignal(int)
+    update_progress_signal = pyqtSignal(int, int)
+
     def __init__(self):
         super().__init__()
         self.sorted_dir = None
@@ -65,16 +66,16 @@ class MainWindow(QMainWindow):
 
         TermLabel = QLabel('Terminal', self)
         TermLabel.resize(200, 30)
-        TermLabel.move(10, 520)
+        TermLabel.move(10, 490)
 
         self.Terminal = QTextEdit('', self)
-        self.Terminal.resize(1180, 200)
-        self.Terminal.move(10, 550)
+        self.Terminal.resize(1180, 180)
+        self.Terminal.move(10, 520)
         self.Terminal.setStyleSheet("background-color : #FFFFFF")
         self.Create_MenuBar()
 
         self.sc = MplCanvas(self, width=8, height=6, dpi=70)
-        self.sc.axes.plot([0,1,2,3,4], [10,1,20,3,40])
+        self.sc.axes.scatter([0,1,2,3,4], [10,1,20,3,40])
 
         toolbar = NavigationToolbar(self.sc,self)
         layout = QtWidgets.QVBoxLayout()
@@ -83,15 +84,23 @@ class MainWindow(QMainWindow):
 
         self.widget = QtWidgets.QWidget(self)
         self.widget.setLayout(layout)
-        self.widget.setGeometry(250, 15, 900, 530)
+        self.widget.setGeometry(250, 15, 900, 500)
 
         self.ProgressBar = QProgressBar(self)
         self.ProgressBar.resize(1195,15)
-        self.ProgressBar.move(10,780)
+        self.ProgressBar.move(10,730)
+
+        self.ProgressBar2 = QProgressBar(self)
+        self.ProgressBar2.resize(1195, 15)
+        self.ProgressBar2.move(10, 780)
 
         self.Progress = QLabel("Sorting progress:", self)
         self.Progress.resize(800, 30)
-        self.Progress.move(10, 750)
+        self.Progress.move(10, 700)
+
+        self.Progress2 = QLabel("Sorting progress:", self)
+        self.Progress2.resize(800, 30)
+        self.Progress2.move(10, 750)
 
 
     def Create_MenuBar(self):
@@ -137,12 +146,13 @@ class MainWindow(QMainWindow):
         subsortdir = str(QFileDialog.getExistingDirectory(self, "Select Storage Directory"))
         if self.sorted_dir is None:
             self.sorted_dir = str(QFileDialog.getExistingDirectory(self, "Select Source Directory"))
-        Hi = threading.Thread(target=d3.ProcessGoodTimesHi, args=(self, self.Terminal, self.sorted_dir,subsortdir, self.ProgressBar, self.Progress)).start()
+        threading.Thread(target=d3.ProcessHiTimes, args=(self, self.Terminal, self.ProgressBar, self.Progress, self.sorted_dir, subsortdir)).start()
+        threading.Thread(target=d3.ProcessLoTimes, args=(self, self.Terminal, self.ProgressBar2, self.Progress2, self.sorted_dir, subsortdir)).start()
     def HandlePlot1(self):
         if self.windows is not None:
             Datax, Datay = self.windows.GetDataset()
             self.sc.axes.cla()
-            self.sc.axes.plot(Datax, Datay)
+            self.sc.axes.scatter(Datax, Datay)
             self.sc.axes.xaxis.set_major_locator(MaxNLocator(nbins=8))
             self.sc.axes.yaxis.set_major_locator(MaxNLocator(nbins=8))
             self.sc.axes.autoscale()
@@ -159,8 +169,12 @@ class MainWindow(QMainWindow):
         time.sleep(0.1)  # Some delay to avoid immediate GUI updates
         self.Terminal.append(response)
 
-    def update_progress(self, value):
-        self.ProgressBar.setValue(value)
+    def update_progress(self, value, PBnum):
+        if PBnum ==1:
+            self.ProgressBar.setValue(value)
+        elif PBnum ==2:
+            self.ProgressBar2.setValue(value)
+
 
     def InitDataPlotting(self):
         if self.windows is None:
