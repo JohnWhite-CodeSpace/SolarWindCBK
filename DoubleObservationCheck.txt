@@ -1,0 +1,784 @@
+No double observations detected in o0011.hihb-3.txt.
+No double observations detected in o0012.hihb-3.txt.
+No double observations detected in o0013.hihb-3.txt.
+No double observations detected in o0014.hihb-3.txt.
+No double observations detected in o0015.hihb-3.txt.
+No double observations detected in o0016.hihb-3.txt.
+No double observations detected in o0017.hihb-3.txt.
+No double observations detected in o0018.hihb-3.txt.
+No double observations detected in o0019.hihb-3.txt.
+No double observations detected in o0020.hihb-3.txt.
+No double observations detected in o0021.hihb-3.txt.
+No double observations detected in o0022.hihb-3.txt.
+No double observations detected in o0023.hihb-3.txt.
+No double observations detected in o0024.hihb-3.txt.
+No double observations detected in o0025.hihb-3.txt.
+No double observations detected in o0026.hihb-3.txt.
+No double observations detected in o0027.hihb-3.txt.
+No double observations detected in o0028.hihb-3.txt.
+No double observations detected in o0029.hihb-3.txt.
+No double observations detected in o0030.hihb-3.txt.
+No double observations detected in o0031.hihb-3.txt.
+No double observations detected in o0032.hihb-3.txt.
+No double observations detected in o0033.hihb-3.txt.
+No double observations detected in o0034.hihb-3.txt.
+No double observations detected in o0035.hihb-3.txt.
+No double observations detected in o0036.hihb-3.txt.
+No double observations detected in o0037.hihb-3.txt.
+No double observations detected in o0038.hihb-3.txt.
+No double observations detected in o0039.hihb-3.txt.
+No double observations detected in o0041.hihb-3.txt.
+No double observations detected in o0042.hihb-3.txt.
+No double observations detected in o0043.hihb-3.txt.
+No double observations detected in o0044.hihb-3.txt.
+No double observations detected in o0045.hihb-3.txt.
+No double observations detected in o0046.hihb-3.txt.
+No double observations detected in o0047.hihb-3.txt.
+No double observations detected in o0048.hihb-3.txt.
+No double observations detected in o0049.hihb-3.txt.
+No double observations detected in o0050.hihb-3.txt.
+No double observations detected in o0051.hihb-3.txt.
+No double observations detected in o0052.hihb-3.txt.
+No double observations detected in o0053.hihb-3.txt.
+No double observations detected in o0054.hihb-3.txt.
+No double observations detected in o0055.hihb-3.txt.
+No double observations detected in o0056.hihb-3.txt.
+No double observations detected in o0057.hihb-3.txt.
+No double observations detected in o0058.hihb-3.txt.
+No double observations detected in o0059.hihb-3.txt.
+No double observations detected in o0060.hihb-3.txt.
+No double observations detected in o0061.hihb-3.txt.
+No double observations detected in o0063.hihb-3.txt.
+No double observations detected in o0064.hihb-3.txt.
+No double observations detected in o0065.hihb-3.txt.
+No double observations detected in o0066.hihb-3.txt.
+No double observations detected in o0067.hihb-3.txt.
+No double observations detected in o0068.hihb-3.txt.
+No double observations detected in o0069.hihb-3.txt.
+No double observations detected in o0070.hihb-3.txt.
+No double observations detected in o0071.hihb-3.txt.
+No double observations detected in o0072.hihb-3.txt.
+No double observations detected in o0073.hihb-3.txt.
+No double observations detected in o0074.hihb-3.txt.
+No double observations detected in o0075.hihb-3.txt.
+No double observations detected in o0076.hihb-3.txt.
+No double observations detected in o0077.hihb-3.txt.
+No double observations detected in o0078.hihb-3.txt.
+No double observations detected in o0079.hihb-3.txt.
+No double observations detected in o0080.hihb-3.txt.
+No double observations detected in o0081.hihb-3.txt.
+No double observations detected in o0082.hihb-3.txt.
+No double observations detected in o0083.hihb-3.txt.
+No double observations detected in o0084.hihb-3.txt.
+No double observations detected in o0085.hihb-3.txt.
+No double observations detected in o0086.hihb-3.txt.
+No double observations detected in o0087.hihb-3.txt.
+No double observations detected in o0088.hihb-3.txt.
+No double observations detected in o0089.hihb-3.txt.
+No double observations detected in o0090.hihb-3.txt.
+No double observations detected in o0091.hihb-3.txt.
+No double observations detected in o0092.hihb-3.txt.
+No double observations detected in o0093.hihb-3.txt.
+No double observations detected in o0094.hihb-3.txt.
+No double observations detected in o0095.hihb-3.txt.
+No double observations detected in o0096.hihb-3.txt.
+No double observations detected in o0097.hihb-3.txt.
+No double observations detected in o0098.hihb-3.txt.
+No double observations detected in o0099.hihb-3.txt.
+No double observations detected in o0100.hihb-3.txt.
+No double observations detected in o0101.hihb-3.txt.
+No double observations detected in o0102.hihb-3.txt.
+No double observations detected in o0103.hihb-3.txt.
+No double observations detected in o0104.hihb-3.txt.
+No double observations detected in o0105.hihb-3.txt.
+No double observations detected in o0106.hihb-3.txt.
+No double observations detected in o0107.hihb-3.txt.
+No double observations detected in o0108.hihb-3.txt.
+No double observations detected in o0109.hihb-3.txt.
+No double observations detected in o0110.hihb-3.txt.
+No double observations detected in o0111.hihb-3.txt.
+No double observations detected in o0112.hihb-3.txt.
+No double observations detected in o0113.hihb-3.txt.
+No double observations detected in o0114.hihb-3.txt.
+No double observations detected in o0115.hihb-3.txt.
+No double observations detected in o0116.hihb-3.txt.
+No double observations detected in o0117.hihb-3.txt.
+No double observations detected in o0118.hihb-3.txt.
+No double observations detected in o0119.hihb-3.txt.
+No double observations detected in o0120.hihb-3.txt.
+No double observations detected in o0121.hihb-3.txt.
+No double observations detected in o0122.hihb-3.txt.
+No double observations detected in o0123.hihb-3.txt.
+No double observations detected in o0124.hihb-3.txt.
+No double observations detected in o0125.hihb-3.txt.
+No double observations detected in o0126.hihb-3.txt.
+No double observations detected in o0127.hihb-3.txt.
+No double observations detected in o0130a.hihb-3.txt.
+No double observations detected in o0130b.hihb-3.txt.
+No double observations detected in o0131a.hihb-3.txt.
+No double observations detected in o0131b.hihb-3.txt.
+No double observations detected in o0132a.hihb-3.txt.
+No double observations detected in o0132b.hihb-3.txt.
+No double observations detected in o0133a.hihb-3.txt.
+No double observations detected in o0133b.hihb-3.txt.
+No double observations detected in o0134a.hihb-3.txt.
+No double observations detected in o0134b.hihb-3.txt.
+No double observations detected in o0135a.hihb-3.txt.
+No double observations detected in o0135b.hihb-3.txt.
+No double observations detected in o0136a.hihb-3.txt.
+No double observations detected in o0136b.hihb-3.txt.
+No double observations detected in o0137a.hihb-3.txt.
+No double observations detected in o0137b.hihb-3.txt.
+No double observations detected in o0138a.hihb-3.txt.
+No double observations detected in o0138b.hihb-3.txt.
+No double observations detected in o0139a.hihb-3.txt.
+No double observations detected in o0139b.hihb-3.txt.
+No double observations detected in o0140a.hihb-3.txt.
+No double observations detected in o0140b.hihb-3.txt.
+No double observations detected in o0141a.hihb-3.txt.
+No double observations detected in o0141b.hihb-3.txt.
+No double observations detected in o0142a.hihb-3.txt.
+No double observations detected in o0142b.hihb-3.txt.
+No double observations detected in o0143a.hihb-3.txt.
+No double observations detected in o0143b.hihb-3.txt.
+No double observations detected in o0144a.hihb-3.txt.
+No double observations detected in o0144b.hihb-3.txt.
+No double observations detected in o0145a.hihb-3.txt.
+No double observations detected in o0145b.hihb-3.txt.
+No double observations detected in o0146a.hihb-3.txt.
+No double observations detected in o0146b.hihb-3.txt.
+No double observations detected in o0147a.hihb-3.txt.
+No double observations detected in o0147b.hihb-3.txt.
+No double observations detected in o0148a.hihb-3.txt.
+No double observations detected in o0148b.hihb-3.txt.
+No double observations detected in o0149a.hihb-3.txt.
+No double observations detected in o0149b.hihb-3.txt.
+No double observations detected in o0150a.hihb-3.txt.
+No double observations detected in o0150b.hihb-3.txt.
+No double observations detected in o0151a.hihb-3.txt.
+No double observations detected in o0151b.hihb-3.txt.
+No double observations detected in o0152a.hihb-3.txt.
+No double observations detected in o0152b.hihb-3.txt.
+No double observations detected in o0153a.hihb-3.txt.
+No double observations detected in o0153b.hihb-3.txt.
+No double observations detected in o0154a.hihb-3.txt.
+No double observations detected in o0154b.hihb-3.txt.
+No double observations detected in o0155b.hihb-3.txt.
+No double observations detected in o0156a.hihb-3.txt.
+No double observations detected in o0156b.hihb-3.txt.
+No double observations detected in o0157a.hihb-3.txt.
+No double observations detected in o0157b.hihb-3.txt.
+No double observations detected in o0158a.hihb-3.txt.
+No double observations detected in o0158b.hihb-3.txt.
+No double observations detected in o0159a.hihb-3.txt.
+No double observations detected in o0159b.hihb-3.txt.
+No double observations detected in o0160a.hihb-3.txt.
+No double observations detected in o0160b.hihb-3.txt.
+No double observations detected in o0161a.hihb-3.txt.
+No double observations detected in o0161b.hihb-3.txt.
+No double observations detected in o0162a.hihb-3.txt.
+No double observations detected in o0162b.hihb-3.txt.
+No double observations detected in o0163a.hihb-3.txt.
+No double observations detected in o0163b.hihb-3.txt.
+No double observations detected in o0164a.hihb-3.txt.
+No double observations detected in o0164b.hihb-3.txt.
+No double observations detected in o0165a.hihb-3.txt.
+No double observations detected in o0165b.hihb-3.txt.
+No double observations detected in o0166a.hihb-3.txt.
+No double observations detected in o0166b.hihb-3.txt.
+No double observations detected in o0167a.hihb-3.txt.
+No double observations detected in o0167b.hihb-3.txt.
+No double observations detected in o0168a.hihb-3.txt.
+No double observations detected in o0168b.hihb-3.txt.
+No double observations detected in o0169a.hihb-3.txt.
+No double observations detected in o0169b.hihb-3.txt.
+No double observations detected in o0170a.hihb-3.txt.
+No double observations detected in o0170b.hihb-3.txt.
+No double observations detected in o0171a.hihb-3.txt.
+No double observations detected in o0171b.hihb-3.txt.
+No double observations detected in o0172a.hihb-3.txt.
+No double observations detected in o0172b.hihb-3.txt.
+No double observations detected in o0173a.hihb-3.txt.
+No double observations detected in o0173b.hihb-3.txt.
+No double observations detected in o0174a.hihb-3.txt.
+No double observations detected in o0174b.hihb-3.txt.
+No double observations detected in o0175a.hihb-3.txt.
+No double observations detected in o0175b.hihb-3.txt.
+No double observations detected in o0176a.hihb-3.txt.
+No double observations detected in o0176b.hihb-3.txt.
+No double observations detected in o0177a.hihb-3.txt.
+No double observations detected in o0177b.hihb-3.txt.
+No double observations detected in o0178a.hihb-3.txt.
+No double observations detected in o0178b.hihb-3.txt.
+No double observations detected in o0179a.hihb-3.txt.
+No double observations detected in o0179b.hihb-3.txt.
+No double observations detected in o0180a.hihb-3.txt.
+No double observations detected in o0180b.hihb-3.txt.
+No double observations detected in o0181a.hihb-3.txt.
+No double observations detected in o0181b.hihb-3.txt.
+No double observations detected in o0182a.hihb-3.txt.
+No double observations detected in o0182b.hihb-3.txt.
+No double observations detected in o0183a.hihb-3.txt.
+No double observations detected in o0183b.hihb-3.txt.
+Channel 3 was observed twice in o0184a.hihb-3.txt.
+Channel 3 was observed twice in o0184b.hihb-3.txt.
+Channel 3 was observed twice in o0185a.hihb-3.txt.
+Channel 3 was observed twice in o0185b.hihb-3.txt.
+Channel 3 was observed twice in o0186a.hihb-3.txt.
+Channel 3 was observed twice in o0186b.hihb-3.txt.
+Channel 3 was observed twice in o0187a.hihb-3.txt.
+Channel 3 was observed twice in o0187b.hihb-3.txt.
+Channel 3 was observed twice in o0188a.hihb-3.txt.
+Channel 3 was observed twice in o0188b.hihb-3.txt.
+No double observations detected in o0189a.hihb-3.txt.
+Channel 3 was observed twice in o0189b.hihb-3.txt.
+Channel 3 was observed twice in o0190a.hihb-3.txt.
+Channel 3 was observed twice in o0190b.hihb-3.txt.
+Channel 3 was observed twice in o0191a.hihb-3.txt.
+Channel 3 was observed twice in o0191b.hihb-3.txt.
+Channel 3 was observed twice in o0192a.hihb-3.txt.
+Channel 3 was observed twice in o0192b.hihb-3.txt.
+Channel 3 was observed twice in o0193a.hihb-3.txt.
+Channel 3 was observed twice in o0193b.hihb-3.txt.
+Channel 3 was observed twice in o0194a.hihb-3.txt.
+Channel 3 was observed twice in o0194b.hihb-3.txt.
+Channel 3 was observed twice in o0195a.hihb-3.txt.
+Channel 3 was observed twice in o0195b.hihb-3.txt.
+Channel 3 was observed twice in o0196a.hihb-3.txt.
+Channel 3 was observed twice in o0196b.hihb-3.txt.
+Channel 3 was observed twice in o0197a.hihb-3.txt.
+Channel 3 was observed twice in o0197b.hihb-3.txt.
+Channel 3 was observed twice in o0198a.hihb-3.txt.
+Channel 3 was observed twice in o0198b.hihb-3.txt.
+Channel 3 was observed twice in o0199a.hihb-3.txt.
+Channel 3 was observed twice in o0199b.hihb-3.txt.
+Channel 3 was observed twice in o0200a.hihb-3.txt.
+Channel 3 was observed twice in o0200b.hihb-3.txt.
+Channel 3 was observed twice in o0201a.hihb-3.txt.
+Channel 3 was observed twice in o0201b.hihb-3.txt.
+Channel 3 was observed twice in o0202a.hihb-3.txt.
+Channel 3 was observed twice in o0202b.hihb-3.txt.
+Channel 3 was observed twice in o0203a.hihb-3.txt.
+Channel 3 was observed twice in o0203b.hihb-3.txt.
+Channel 3 was observed twice in o0204a.hihb-3.txt.
+Channel 3 was observed twice in o0204b.hihb-3.txt.
+Channel 3 was observed twice in o0205a.hihb-3.txt.
+Channel 3 was observed twice in o0205b.hihb-3.txt.
+Channel 3 was observed twice in o0206a.hihb-3.txt.
+Channel 3 was observed twice in o0206b.hihb-3.txt.
+Channel 3 was observed twice in o0207a.hihb-3.txt.
+Channel 3 was observed twice in o0207b.hihb-3.txt.
+Channel 3 was observed twice in o0208a.hihb-3.txt.
+Channel 3 was observed twice in o0208b.hihb-3.txt.
+Channel 3 was observed twice in o0209a.hihb-3.txt.
+Channel 3 was observed twice in o0209b.hihb-3.txt.
+Channel 3 was observed twice in o0210a.hihb-3.txt.
+Channel 3 was observed twice in o0210b.hihb-3.txt.
+Channel 3 was observed twice in o0211a.hihb-3.txt.
+Channel 3 was observed twice in o0211b.hihb-3.txt.
+Channel 3 was observed twice in o0212a.hihb-3.txt.
+Channel 3 was observed twice in o0212b.hihb-3.txt.
+Channel 3 was observed twice in o0213a.hihb-3.txt.
+Channel 3 was observed twice in o0213b.hihb-3.txt.
+Channel 3 was observed twice in o0214a.hihb-3.txt.
+Channel 3 was observed twice in o0214b.hihb-3.txt.
+Channel 3 was observed twice in o0215a.hihb-3.txt.
+Channel 3 was observed twice in o0215b.hihb-3.txt.
+Channel 3 was observed twice in o0216a.hihb-3.txt.
+Channel 3 was observed twice in o0216b.hihb-3.txt.
+Channel 3 was observed twice in o0217a.hihb-3.txt.
+Channel 3 was observed twice in o0217b.hihb-3.txt.
+Channel 3 was observed twice in o0218a.hihb-3.txt.
+Channel 3 was observed twice in o0218b.hihb-3.txt.
+Channel 3 was observed twice in o0219a.hihb-3.txt.
+Channel 3 was observed twice in o0219b.hihb-3.txt.
+Channel 3 was observed twice in o0220a.hihb-3.txt.
+Channel 3 was observed twice in o0220b.hihb-3.txt.
+Channel 3 was observed twice in o0221a.hihb-3.txt.
+Channel 3 was observed twice in o0221b.hihb-3.txt.
+Channel 3 was observed twice in o0222a.hihb-3.txt.
+Channel 3 was observed twice in o0222b.hihb-3.txt.
+Channel 3 was observed twice in o0223a.hihb-3.txt.
+Channel 3 was observed twice in o0223b.hihb-3.txt.
+Channel 3 was observed twice in o0224a.hihb-3.txt.
+Channel 3 was observed twice in o0224b.hihb-3.txt.
+Channel 3 was observed twice in o0225a.hihb-3.txt.
+Channel 3 was observed twice in o0225b.hihb-3.txt.
+Channel 3 was observed twice in o0226a.hihb-3.txt.
+Channel 3 was observed twice in o0226b.hihb-3.txt.
+Channel 3 was observed twice in o0227a.hihb-3.txt.
+Channel 3 was observed twice in o0227b.hihb-3.txt.
+Channel 3 was observed twice in o0228a.hihb-3.txt.
+Channel 3 was observed twice in o0228b.hihb-3.txt.
+Channel 3 was observed twice in o0229a.hihb-3.txt.
+Channel 3 was observed twice in o0229b.hihb-3.txt.
+Channel 3 was observed twice in o0230a.hihb-3.txt.
+Channel 3 was observed twice in o0230b.hihb-3.txt.
+Channel 3 was observed twice in o0231a.hihb-3.txt.
+Channel 3 was observed twice in o0231b.hihb-3.txt.
+Channel 3 was observed twice in o0232a.hihb-3.txt.
+Channel 3 was observed twice in o0232b.hihb-3.txt.
+Channel 3 was observed twice in o0233a.hihb-3.txt.
+Channel 3 was observed twice in o0233b.hihb-3.txt.
+Channel 3 was observed twice in o0234a.hihb-3.txt.
+Channel 3 was observed twice in o0234b.hihb-3.txt.
+Channel 3 was observed twice in o0235a.hihb-3.txt.
+Channel 3 was observed twice in o0235b.hihb-3.txt.
+Channel 3 was observed twice in o0236a.hihb-3.txt.
+Channel 3 was observed twice in o0236b.hihb-3.txt.
+Channel 3 was observed twice in o0237a.hihb-3.txt.
+Channel 3 was observed twice in o0237b.hihb-3.txt.
+Channel 3 was observed twice in o0238a.hihb-3.txt.
+Channel 3 was observed twice in o0238b.hihb-3.txt.
+Channel 3 was observed twice in o0239a.hihb-3.txt.
+Channel 3 was observed twice in o0239b.hihb-3.txt.
+Channel 3 was observed twice in o0240a.hihb-3.txt.
+Channel 3 was observed twice in o0240b.hihb-3.txt.
+Channel 3 was observed twice in o0241a.hihb-3.txt.
+Channel 3 was observed twice in o0241b.hihb-3.txt.
+Channel 3 was observed twice in o0242a.hihb-3.txt.
+Channel 3 was observed twice in o0242b.hihb-3.txt.
+No double observations detected in o0243a.hihb-3.txt.
+No double observations detected in o0243b.hihb-3.txt.
+Channel 3 was observed twice in o0244a.hihb-3.txt.
+Channel 3 was observed twice in o0244b.hihb-3.txt.
+Channel 3 was observed twice in o0245a.hihb-3.txt.
+Channel 3 was observed twice in o0245b.hihb-3.txt.
+Channel 3 was observed twice in o0246a.hihb-3.txt.
+Channel 3 was observed twice in o0246b.hihb-3.txt.
+Channel 3 was observed twice in o0247a.hihb-3.txt.
+Channel 3 was observed twice in o0247b.hihb-3.txt.
+Channel 3 was observed twice in o0248a.hihb-3.txt.
+Channel 3 was observed twice in o0248b.hihb-3.txt.
+Channel 3 was observed twice in o0249a.hihb-3.txt.
+Channel 3 was observed twice in o0249b.hihb-3.txt.
+Channel 3 was observed twice in o0250a.hihb-3.txt.
+Channel 3 was observed twice in o0250b.hihb-3.txt.
+Channel 3 was observed twice in o0251a.hihb-3.txt.
+Channel 3 was observed twice in o0251b.hihb-3.txt.
+Channel 3 was observed twice in o0252a.hihb-3.txt.
+Channel 3 was observed twice in o0252b.hihb-3.txt.
+Channel 3 was observed twice in o0253a.hihb-3.txt.
+Channel 3 was observed twice in o0253b.hihb-3.txt.
+Channel 3 was observed twice in o0254a.hihb-3.txt.
+Channel 3 was observed twice in o0254b.hihb-3.txt.
+Channel 3 was observed twice in o0255a.hihb-3.txt.
+Channel 3 was observed twice in o0255b.hihb-3.txt.
+Channel 3 was observed twice in o0256a.hihb-3.txt.
+Channel 3 was observed twice in o0256b.hihb-3.txt.
+Channel 3 was observed twice in o0257a.hihb-3.txt.
+Channel 3 was observed twice in o0257b.hihb-3.txt.
+Channel 3 was observed twice in o0258a.hihb-3.txt.
+Channel 3 was observed twice in o0258b.hihb-3.txt.
+Channel 3 was observed twice in o0259a.hihb-3.txt.
+Channel 3 was observed twice in o0259b.hihb-3.txt.
+Channel 3 was observed twice in o0260a.hihb-3.txt.
+Channel 3 was observed twice in o0260b.hihb-3.txt.
+Channel 3 was observed twice in o0261a.hihb-3.txt.
+Channel 3 was observed twice in o0261b.hihb-3.txt.
+Channel 3 was observed twice in o0262a.hihb-3.txt.
+Channel 3 was observed twice in o0262b.hihb-3.txt.
+Channel 3 was observed twice in o0263a.hihb-3.txt.
+Channel 3 was observed twice in o0263b.hihb-3.txt.
+Channel 3 was observed twice in o0264a.hihb-3.txt.
+Channel 3 was observed twice in o0264b.hihb-3.txt.
+Channel 3 was observed twice in o0265a.hihb-3.txt.
+Channel 3 was observed twice in o0265b.hihb-3.txt.
+Channel 3 was observed twice in o0266a.hihb-3.txt.
+Channel 3 was observed twice in o0266b.hihb-3.txt.
+Channel 3 was observed twice in o0267a.hihb-3.txt.
+Channel 3 was observed twice in o0267b.hihb-3.txt.
+Channel 3 was observed twice in o0268a.hihb-3.txt.
+Channel 3 was observed twice in o0268b.hihb-3.txt.
+Channel 3 was observed twice in o0269a.hihb-3.txt.
+Channel 3 was observed twice in o0269b.hihb-3.txt.
+Channel 3 was observed twice in o0270a.hihb-3.txt.
+Channel 3 was observed twice in o0270b.hihb-3.txt.
+Channel 3 was observed twice in o0271a.hihb-3.txt.
+Channel 3 was observed twice in o0271b.hihb-3.txt.
+Channel 3 was observed twice in o0272a.hihb-3.txt.
+Channel 3 was observed twice in o0272b.hihb-3.txt.
+Channel 3 was observed twice in o0273a.hihb-3.txt.
+Channel 3 was observed twice in o0273b.hihb-3.txt.
+Channel 3 was observed twice in o0274a.hihb-3.txt.
+Channel 3 was observed twice in o0274b.hihb-3.txt.
+Channel 3 was observed twice in o0275a.hihb-3.txt.
+Channel 3 was observed twice in o0275b.hihb-3.txt.
+Channel 3 was observed twice in o0276a.hihb-3.txt.
+Channel 3 was observed twice in o0276b.hihb-3.txt.
+Channel 3 was observed twice in o0277a.hihb-3.txt.
+Channel 3 was observed twice in o0277b.hihb-3.txt.
+Channel 3 was observed twice in o0278a.hihb-3.txt.
+Channel 3 was observed twice in o0278b.hihb-3.txt.
+Channel 3 was observed twice in o0279a.hihb-3.txt.
+Channel 3 was observed twice in o0279b.hihb-3.txt.
+Channel 3 was observed twice in o0280a.hihb-3.txt.
+Channel 3 was observed twice in o0280b.hihb-3.txt.
+Channel 3 was observed twice in o0281a.hihb-3.txt.
+Channel 3 was observed twice in o0281b.hihb-3.txt.
+Channel 3 was observed twice in o0282a.hihb-3.txt.
+Channel 3 was observed twice in o0282b.hihb-3.txt.
+Channel 3 was observed twice in o0283a.hihb-3.txt.
+Channel 3 was observed twice in o0283b.hihb-3.txt.
+Channel 3 was observed twice in o0284a.hihb-3.txt.
+Channel 3 was observed twice in o0284b.hihb-3.txt.
+Channel 3 was observed twice in o0285a.hihb-3.txt.
+Channel 3 was observed twice in o0285b.hihb-3.txt.
+Channel 3 was observed twice in o0286a.hihb-3.txt.
+Channel 3 was observed twice in o0286b.hihb-3.txt.
+Channel 3 was observed twice in o0287a.hihb-3.txt.
+Channel 3 was observed twice in o0287b.hihb-3.txt.
+Channel 3 was observed twice in o0288a.hihb-3.txt.
+Channel 3 was observed twice in o0288b.hihb-3.txt.
+Channel 3 was observed twice in o0289a.hihb-3.txt.
+Channel 3 was observed twice in o0289b.hihb-3.txt.
+Channel 3 was observed twice in o0290a.hihb-3.txt.
+Channel 3 was observed twice in o0290b.hihb-3.txt.
+Channel 3 was observed twice in o0291a.hihb-3.txt.
+Channel 3 was observed twice in o0291b.hihb-3.txt.
+Channel 3 was observed twice in o0292a.hihb-3.txt.
+Channel 3 was observed twice in o0292b.hihb-3.txt.
+Channel 3 was observed twice in o0293a.hihb-3.txt.
+Channel 3 was observed twice in o0293b.hihb-3.txt.
+Channel 3 was observed twice in o0294a.hihb-3.txt.
+Channel 3 was observed twice in o0294b.hihb-3.txt.
+Channel 3 was observed twice in o0295a.hihb-3.txt.
+Channel 3 was observed twice in o0295b.hihb-3.txt.
+Channel 3 was observed twice in o0296a.hihb-3.txt.
+Channel 3 was observed twice in o0296b.hihb-3.txt.
+Channel 3 was observed twice in o0297a.hihb-3.txt.
+Channel 3 was observed twice in o0297b.hihb-3.txt.
+Channel 3 was observed twice in o0298a.hihb-3.txt.
+Channel 3 was observed twice in o0298b.hihb-3.txt.
+Channel 3 was observed twice in o0299a.hihb-3.txt.
+Channel 3 was observed twice in o0299b.hihb-3.txt.
+Channel 3 was observed twice in o0300b.hihb-3.txt.
+Channel 3 was observed twice in o0301a.hihb-3.txt.
+Channel 3 was observed twice in o0301b.hihb-3.txt.
+Channel 3 was observed twice in o0302a.hihb-3.txt.
+Channel 3 was observed twice in o0302b.hihb-3.txt.
+Channel 3 was observed twice in o0304a.hihb-3.txt.
+Channel 3 was observed twice in o0304b.hihb-3.txt.
+Channel 3 was observed twice in o0305a.hihb-3.txt.
+Channel 3 was observed twice in o0305b.hihb-3.txt.
+Channel 3 was observed twice in o0306a.hihb-3.txt.
+Channel 3 was observed twice in o0306b.hihb-3.txt.
+No double observations detected in o0307a.hihb-3.txt.
+No double observations detected in o0307b.hihb-3.txt.
+Channel 3 was observed twice in o0308a.hihb-3.txt.
+Channel 3 was observed twice in o0308b.hihb-3.txt.
+Channel 3 was observed twice in o0309a.hihb-3.txt.
+Channel 3 was observed twice in o0309b.hihb-3.txt.
+Channel 3 was observed twice in o0310a.hihb-3.txt.
+Channel 3 was observed twice in o0310b.hihb-3.txt.
+No double observations detected in o0311a.hihb-3.txt.
+No double observations detected in o0311b.hihb-3.txt.
+No double observations detected in o0312a.hihb-3.txt.
+No double observations detected in o0312b.hihb-3.txt.
+No double observations detected in o0313a.hihb-3.txt.
+No double observations detected in o0313b.hihb-3.txt.
+No double observations detected in o0314a.hihb-3.txt.
+No double observations detected in o0314b.hihb-3.txt.
+No double observations detected in o0315a.hihb-3.txt.
+No double observations detected in o0318a.hihb-3.txt.
+No double observations detected in o0318b.hihb-3.txt.
+No double observations detected in o0319a.hihb-3.txt.
+No double observations detected in o0319b.hihb-3.txt.
+No double observations detected in o0320a.hihb-3.txt.
+No double observations detected in o0320b.hihb-3.txt.
+No double observations detected in o0321a.hihb-3.txt.
+No double observations detected in o0321b.hihb-3.txt.
+No double observations detected in o0322a.hihb-3.txt.
+No double observations detected in o0322b.hihb-3.txt.
+No double observations detected in o0323a.hihb-3.txt.
+No double observations detected in o0323b.hihb-3.txt.
+No double observations detected in o0324a.hihb-3.txt.
+No double observations detected in o0324b.hihb-3.txt.
+No double observations detected in o0325a.hihb-3.txt.
+No double observations detected in o0325b.hihb-3.txt.
+No double observations detected in o0326a.hihb-3.txt.
+No double observations detected in o0326b.hihb-3.txt.
+No double observations detected in o0327a.hihb-3.txt.
+No double observations detected in o0327b.hihb-3.txt.
+No double observations detected in o0328a.hihb-3.txt.
+No double observations detected in o0328b.hihb-3.txt.
+No double observations detected in o0329a.hihb-3.txt.
+No double observations detected in o0329b.hihb-3.txt.
+No double observations detected in o0330a.hihb-3.txt.
+No double observations detected in o0330b.hihb-3.txt.
+No double observations detected in o0331a.hihb-3.txt.
+No double observations detected in o0331b.hihb-3.txt.
+No double observations detected in o0332a.hihb-3.txt.
+No double observations detected in o0332b.hihb-3.txt.
+No double observations detected in o0333a.hihb-3.txt.
+No double observations detected in o0333b.hihb-3.txt.
+No double observations detected in o0334a.hihb-3.txt.
+No double observations detected in o0334b.hihb-3.txt.
+No double observations detected in o0335a.hihb-3.txt.
+No double observations detected in o0335b.hihb-3.txt.
+No double observations detected in o0336a.hihb-3.txt.
+No double observations detected in o0336b.hihb-3.txt.
+No double observations detected in o0337a.hihb-3.txt.
+No double observations detected in o0337b.hihb-3.txt.
+No double observations detected in o0339a.hihb-3.txt.
+No double observations detected in o0339b.hihb-3.txt.
+No double observations detected in o0340a.hihb-3.txt.
+No double observations detected in o0340b.hihb-3.txt.
+No double observations detected in o0341a.hihb-3.txt.
+No double observations detected in o0341b.hihb-3.txt.
+No double observations detected in o0342a.hihb-3.txt.
+No double observations detected in o0342b.hihb-3.txt.
+No double observations detected in o0343a.hihb-3.txt.
+No double observations detected in o0343b.hihb-3.txt.
+No double observations detected in o0344a.hihb-3.txt.
+No double observations detected in o0344b.hihb-3.txt.
+No double observations detected in o0345a.hihb-3.txt.
+No double observations detected in o0345b.hihb-3.txt.
+No double observations detected in o0346a.hihb-3.txt.
+No double observations detected in o0346b.hihb-3.txt.
+No double observations detected in o0347a.hihb-3.txt.
+No double observations detected in o0347b.hihb-3.txt.
+No double observations detected in o0348a.hihb-3.txt.
+No double observations detected in o0348b.hihb-3.txt.
+No double observations detected in o0349a.hihb-3.txt.
+No double observations detected in o0349b.hihb-3.txt.
+No double observations detected in o0350a.hihb-3.txt.
+No double observations detected in o0350b.hihb-3.txt.
+No double observations detected in o0351a.hihb-3.txt.
+No double observations detected in o0351b.hihb-3.txt.
+No double observations detected in o0352a.hihb-3.txt.
+No double observations detected in o0352b.hihb-3.txt.
+No double observations detected in o0353a.hihb-3.txt.
+No double observations detected in o0353b.hihb-3.txt.
+No double observations detected in o0354a.hihb-3.txt.
+No double observations detected in o0354b.hihb-3.txt.
+No double observations detected in o0355a.hihb-3.txt.
+No double observations detected in o0355b.hihb-3.txt.
+No double observations detected in o0356a.hihb-3.txt.
+No double observations detected in o0356b.hihb-3.txt.
+No double observations detected in o0357a.hihb-3.txt.
+No double observations detected in o0357b.hihb-3.txt.
+No double observations detected in o0358a.hihb-3.txt.
+No double observations detected in o0358b.hihb-3.txt.
+No double observations detected in o0359a.hihb-3.txt.
+No double observations detected in o0359b.hihb-3.txt.
+No double observations detected in o0360a.hihb-3.txt.
+No double observations detected in o0360b.hihb-3.txt.
+No double observations detected in o0361a.hihb-3.txt.
+No double observations detected in o0361b.hihb-3.txt.
+No double observations detected in o0362a.hihb-3.txt.
+No double observations detected in o0362b.hihb-3.txt.
+No double observations detected in o0363a.hihb-3.txt.
+No double observations detected in o0363b.hihb-3.txt.
+No double observations detected in o0364a.hihb-3.txt.
+No double observations detected in o0364b.hihb-3.txt.
+No double observations detected in o0365a.hihb-3.txt.
+No double observations detected in o0365b.hihb-3.txt.
+No double observations detected in o0366a.hihb-3.txt.
+No double observations detected in o0366b.hihb-3.txt.
+No double observations detected in o0367a.hihb-3.txt.
+No double observations detected in o0367b.hihb-3.txt.
+No double observations detected in o0368a.hihb-3.txt.
+No double observations detected in o0368b.hihb-3.txt.
+No double observations detected in o0369a.hihb-3.txt.
+No double observations detected in o0369b.hihb-3.txt.
+No double observations detected in o0370a.hihb-3.txt.
+No double observations detected in o0370b.hihb-3.txt.
+No double observations detected in o0371a.hihb-3.txt.
+No double observations detected in o0371b.hihb-3.txt.
+No double observations detected in o0372a.hihb-3.txt.
+No double observations detected in o0372b.hihb-3.txt.
+No double observations detected in o0373a.hihb-3.txt.
+No double observations detected in o0373b.hihb-3.txt.
+No double observations detected in o0374a.hihb-3.txt.
+No double observations detected in o0374b.hihb-3.txt.
+No double observations detected in o0375a.hihb-3.txt.
+No double observations detected in o0375b.hihb-3.txt.
+No double observations detected in o0376a.hihb-3.txt.
+No double observations detected in o0376b.hihb-3.txt.
+No double observations detected in o0377a.hihb-3.txt.
+No double observations detected in o0377b.hihb-3.txt.
+No double observations detected in o0378a.hihb-3.txt.
+No double observations detected in o0378b.hihb-3.txt.
+No double observations detected in o0379a.hihb-3.txt.
+No double observations detected in o0379b.hihb-3.txt.
+No double observations detected in o0380a.hihb-3.txt.
+No double observations detected in o0380b.hihb-3.txt.
+No double observations detected in o0381a.hihb-3.txt.
+No double observations detected in o0381b.hihb-3.txt.
+No double observations detected in o0382a.hihb-3.txt.
+No double observations detected in o0382b.hihb-3.txt.
+No double observations detected in o0383a.hihb-3.txt.
+No double observations detected in o0383b.hihb-3.txt.
+No double observations detected in o0384a.hihb-3.txt.
+No double observations detected in o0384b.hihb-3.txt.
+No double observations detected in o0385a.hihb-3.txt.
+No double observations detected in o0385b.hihb-3.txt.
+No double observations detected in o0386a.hihb-3.txt.
+No double observations detected in o0386b.hihb-3.txt.
+No double observations detected in o0387a.hihb-3.txt.
+No double observations detected in o0387b.hihb-3.txt.
+No double observations detected in o0388a.hihb-3.txt.
+No double observations detected in o0388b.hihb-3.txt.
+No double observations detected in o0389a.hihb-3.txt.
+No double observations detected in o0389b.hihb-3.txt.
+No double observations detected in o0391a.hihb-3.txt.
+No double observations detected in o0391b.hihb-3.txt.
+No double observations detected in o0392a.hihb-3.txt.
+No double observations detected in o0392b.hihb-3.txt.
+No double observations detected in o0393a.hihb-3.txt.
+No double observations detected in o0393b.hihb-3.txt.
+No double observations detected in o0394a.hihb-3.txt.
+No double observations detected in o0394b.hihb-3.txt.
+No double observations detected in o0395a.hihb-3.txt.
+No double observations detected in o0395b.hihb-3.txt.
+No double observations detected in o0396a.hihb-3.txt.
+No double observations detected in o0396b.hihb-3.txt.
+No double observations detected in o0397a.hihb-3.txt.
+No double observations detected in o0397b.hihb-3.txt.
+No double observations detected in o0398a.hihb-3.txt.
+No double observations detected in o0398b.hihb-3.txt.
+No double observations detected in o0399a.hihb-3.txt.
+No double observations detected in o0399b.hihb-3.txt.
+No double observations detected in o0400a.hihb-3.txt.
+No double observations detected in o0400b.hihb-3.txt.
+No double observations detected in o0401a.hihb-3.txt.
+No double observations detected in o0401b.hihb-3.txt.
+No double observations detected in o0402a.hihb-3.txt.
+No double observations detected in o0402b.hihb-3.txt.
+No double observations detected in o0403a.hihb-3.txt.
+No double observations detected in o0403b.hihb-3.txt.
+No double observations detected in o0404a.hihb-3.txt.
+No double observations detected in o0404b.hihb-3.txt.
+No double observations detected in o0406a.hihb-3.txt.
+No double observations detected in o0406b.hihb-3.txt.
+No double observations detected in o0407a.hihb-3.txt.
+No double observations detected in o0407b.hihb-3.txt.
+No double observations detected in o0408a.hihb-3.txt.
+No double observations detected in o0408b.hihb-3.txt.
+No double observations detected in o0409a.hihb-3.txt.
+No double observations detected in o0409b.hihb-3.txt.
+No double observations detected in o0410a.hihb-3.txt.
+No double observations detected in o0410b.hihb-3.txt.
+No double observations detected in o0411a.hihb-3.txt.
+No double observations detected in o0411b.hihb-3.txt.
+No double observations detected in o0412a.hihb-3.txt.
+No double observations detected in o0412b.hihb-3.txt.
+No double observations detected in o0413a.hihb-3.txt.
+No double observations detected in o0413b.hihb-3.txt.
+No double observations detected in o0414a.hihb-3.txt.
+No double observations detected in o0414b.hihb-3.txt.
+No double observations detected in o0415a.hihb-3.txt.
+No double observations detected in o0415b.hihb-3.txt.
+No double observations detected in o0416a.hihb-3.txt.
+No double observations detected in o0416b.hihb-3.txt.
+No double observations detected in o0417a.hihb-3.txt.
+No double observations detected in o0417b.hihb-3.txt.
+No double observations detected in o0418a.hihb-3.txt.
+No double observations detected in o0418b.hihb-3.txt.
+No double observations detected in o0419a.hihb-3.txt.
+No double observations detected in o0419b.hihb-3.txt.
+No double observations detected in o0420a.hihb-3.txt.
+No double observations detected in o0420b.hihb-3.txt.
+No double observations detected in o0421a.hihb-3.txt.
+No double observations detected in o0421b.hihb-3.txt.
+No double observations detected in o0422a.hihb-3.txt.
+No double observations detected in o0422b.hihb-3.txt.
+No double observations detected in o0423a.hihb-3.txt.
+No double observations detected in o0423b.hihb-3.txt.
+No double observations detected in o0424a.hihb-3.txt.
+No double observations detected in o0424b.hihb-3.txt.
+No double observations detected in o0425a.hihb-3.txt.
+No double observations detected in o0425b.hihb-3.txt.
+No double observations detected in o0426a.hihb-3.txt.
+No double observations detected in o0426b.hihb-3.txt.
+No double observations detected in o0427a.hihb-3.txt.
+No double observations detected in o0427b.hihb-3.txt.
+No double observations detected in o0428a.hihb-3.txt.
+No double observations detected in o0428b.hihb-3.txt.
+No double observations detected in o0429a.hihb-3.txt.
+No double observations detected in o0429b.hihb-3.txt.
+No double observations detected in o0430a.hihb-3.txt.
+No double observations detected in o0430b.hihb-3.txt.
+No double observations detected in o0431a.hihb-3.txt.
+No double observations detected in o0431b.hihb-3.txt.
+No double observations detected in o0432a.hihb-3.txt.
+No double observations detected in o0432b.hihb-3.txt.
+No double observations detected in o0433a.hihb-3.txt.
+No double observations detected in o0433b.hihb-3.txt.
+No double observations detected in o0434a.hihb-3.txt.
+No double observations detected in o0434b.hihb-3.txt.
+No double observations detected in o0435a.hihb-3.txt.
+No double observations detected in o0435b.hihb-3.txt.
+No double observations detected in o0436a.hihb-3.txt.
+No double observations detected in o0436b.hihb-3.txt.
+No double observations detected in o0437a.hihb-3.txt.
+No double observations detected in o0437b.hihb-3.txt.
+No double observations detected in o0438a.hihb-3.txt.
+No double observations detected in o0438b.hihb-3.txt.
+No double observations detected in o0439a.hihb-3.txt.
+No double observations detected in o0439b.hihb-3.txt.
+No double observations detected in o0440a.hihb-3.txt.
+No double observations detected in o0440b.hihb-3.txt.
+No double observations detected in o0441a.hihb-3.txt.
+No double observations detected in o0441b.hihb-3.txt.
+No double observations detected in o0442a.hihb-3.txt.
+No double observations detected in o0442b.hihb-3.txt.
+No double observations detected in o0443a.hihb-3.txt.
+No double observations detected in o0443b.hihb-3.txt.
+No double observations detected in o0444a.hihb-3.txt.
+No double observations detected in o0444b.hihb-3.txt.
+No double observations detected in o0445a.hihb-3.txt.
+No double observations detected in o0445b.hihb-3.txt.
+No double observations detected in o0446a.hihb-3.txt.
+No double observations detected in o0446b.hihb-3.txt.
+No double observations detected in o0447a.hihb-3.txt.
+No double observations detected in o0447b.hihb-3.txt.
+No double observations detected in o0448a.hihb-3.txt.
+No double observations detected in o0448b.hihb-3.txt.
+No double observations detected in o0449a.hihb-3.txt.
+No double observations detected in o0449b.hihb-3.txt.
+No double observations detected in o0450a.hihb-3.txt.
+No double observations detected in o0450b.hihb-3.txt.
+No double observations detected in o0451a.hihb-3.txt.
+No double observations detected in o0451b.hihb-3.txt.
+No double observations detected in o0452a.hihb-3.txt.
+No double observations detected in o0452b.hihb-3.txt.
+No double observations detected in o0453a.hihb-3.txt.
+No double observations detected in o0453b.hihb-3.txt.
+No double observations detected in o0454a.hihb-3.txt.
+No double observations detected in o0454b.hihb-3.txt.
+No double observations detected in o0455a.hihb-3.txt.
+No double observations detected in o0455b.hihb-3.txt.
+No double observations detected in o0456a.hihb-3.txt.
+No double observations detected in o0456b.hihb-3.txt.
+No double observations detected in o0457a.hihb-3.txt.
+No double observations detected in o0457b.hihb-3.txt.
+No double observations detected in o0458a.hihb-3.txt.
+No double observations detected in o0458b.hihb-3.txt.
+No double observations detected in o0459a.hihb-3.txt.
+No double observations detected in o0459b.hihb-3.txt.
+No double observations detected in o0460a.hihb-3.txt.
+No double observations detected in o0460b.hihb-3.txt.
+No double observations detected in o0461a.hihb-3.txt.
+No double observations detected in o0461b.hihb-3.txt.
+No double observations detected in o0462a.hihb-3.txt.
+No double observations detected in o0462b.hihb-3.txt.
+No double observations detected in o0463a.hihb-3.txt.
+No double observations detected in o0463b.hihb-3.txt.
+No double observations detected in o0464a.hihb-3.txt.
+No double observations detected in o0464b.hihb-3.txt.
+No double observations detected in o0465a.hihb-3.txt.
+No double observations detected in o0465b.hihb-3.txt.
+No double observations detected in o0466a.hihb-3.txt.
+No double observations detected in o0466b.hihb-3.txt.
+No double observations detected in o0467a.hihb-3.txt.
+No double observations detected in o0467b.hihb-3.txt.
+No double observations detected in o0468a.hihb-3.txt.
+No double observations detected in o0468b.hihb-3.txt.
+No double observations detected in o0469a.hihb-3.txt.
+No double observations detected in o0469b.hihb-3.txt.
+No double observations detected in o0470a.hihb-3.txt.
+No double observations detected in o0470b.hihb-3.txt.
+No double observations detected in o0471a.hihb-3.txt.
+No double observations detected in o0471b.hihb-3.txt.
