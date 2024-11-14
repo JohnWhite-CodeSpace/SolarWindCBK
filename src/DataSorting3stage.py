@@ -236,7 +236,7 @@ def CalcSumLo(self, lines, path, ProgressBar):
 
 def GetMultiplyerConstant(HideFile):
     IsObservedTwice = False
-    with open("DoubleObservationCheck.txt", 'r') as CheckDoubleFile:
+    with open("../instruction_files/DoubleObservationCheck.txt", 'r') as CheckDoubleFile:
         lines = CheckDoubleFile.readlines()
     CheckDoubleFile.close()
     for line in lines:

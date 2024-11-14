@@ -1,15 +1,10 @@
-import os.path
 import threading
 import time
 
 from matplotlib.ticker import MaxNLocator
-from pynput import keyboard
-from PyQt5 import QtCore, QtWidgets, QtGui
-from PyQt5.QtWidgets import QMainWindow, QLabel, QGridLayout, QWidget, QTextEdit, QPushButton, QFileDialog, QDialog, \
-    QMenuBar, QMenu, QAction, QProgressBar, QVBoxLayout
-from PyQt5.QtCore import QSize, QTimer, QObject, pyqtSignal
-from PyQt5.QtGui import *
-import subprocess
+from PyQt5 import QtWidgets
+from PyQt5.QtWidgets import QMainWindow, QLabel, QTextEdit, QPushButton, QFileDialog, QMenuBar, QAction, QProgressBar
+from PyQt5.QtCore import QSize, pyqtSignal
 import DataSorting as DS
 import sys
 import matplotlib

@@ -39,13 +39,13 @@ def CheckDoubleObservation(SourceDirectory, Terminal, Label, SortedDirectory):
         if CheckHi3 != "" and CheckHi2 != "":
             if os.path.getsize(os.path.join(root, CheckHi3))>=1.5*os.path.getsize(os.path.join(root,CheckHi2)):
                 Label.setText(f"Double observation occurred in {os.path.relpath(CheckHi3)} ")
-                openfile = os.path.join(SortedDirectory, "DoubleObservationCheck.txt")
+                openfile = os.path.join(SortedDirectory, "../instruction_files/DoubleObservationCheck.txt")
                 with open(openfile, 'a') as IsDoubleFile:
                     IsDoubleFile.write(f"Channel 3 was observed twice in {os.path.relpath(CheckHi3)}.\n")
                 IsDoubleFile.close()
             else:
                 Label.setText(f"No double observations in {os.path.relpath(CheckHi3)} ")
-                openfile = os.path.join(SortedDirectory, "DoubleObservationCheck.txt")
+                openfile = os.path.join(SortedDirectory, "../instruction_files/DoubleObservationCheck.txt")
                 with open(openfile, 'a') as IsDoubleFile:
                     IsDoubleFile.write(f"No double observations detected in {os.path.relpath(CheckHi3)}.\n")
                 IsDoubleFile.close()
